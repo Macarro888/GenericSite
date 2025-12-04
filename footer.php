@@ -6,7 +6,7 @@ $baseUrl = "http://localhost/portfoglio";
 <footer class="site-footer" role="contentinfo">
   <div class="site-footer__inner">
     <div class="site-footer__text">
-      <small>&copy 2002-<?php echo date('Y'); ?> Est Sesia. Tutti i diritti riservati &copy <a href="/privacy" class="footer-link">Privacy e cookie policy</a></small>
+      <small>&copy 2002-<?php echo date('Y'); ?> blackshield. Tutti i diritti riservati &copy <a href="/privacy" class="footer-link">Privacy e cookie policy</a></small>
     </div>
 
     <nav class="site-footer__social" aria-label="Social">
